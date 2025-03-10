@@ -1,0 +1,27 @@
+{
+  "name": "byteory Token Creator Tool",
+  "short_name": "byteory",
+  "description": "Create Solana tokens easily with byteory's Token Creator Tool",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#13111C",
+  "theme_color": "#7C3AED",
+  "icons": [
+    {
+      "src": "/assets/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+} 
