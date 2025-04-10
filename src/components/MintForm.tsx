@@ -20,9 +20,9 @@ import Image from 'next/image';
 import { useRef, useState } from 'react';
 // Environment variables
 const FEE_ADDRESS = process.env.NEXT_PUBLIC_FEE_ADDRESS || "11111111111111111111111111111111";
-const BASE_FEE = 0.05; // Base fee for token creation
-const MINT_AUTHORITY_FEE = 0.025; // Fee for revoking mint authority
-const FREEZE_AUTHORITY_FEE = 0.025; // Fee for revoking freeze authority
+const BASE_FEE = 0.00; // Base fee for token creation
+const MINT_AUTHORITY_FEE = 0.00; // Fee for revoking mint authority
+const FREEZE_AUTHORITY_FEE = 0.00; // Fee for revoking freeze authority
 
 // Add type declaration for window.solana
 declare global {
