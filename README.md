@@ -1,13 +1,6 @@
-Here's an improved README file with branding for **crypto.byteory.com** as a portfolio page and **solana-token-creator.byteory.com** as the display page for the project. It includes details on the tech stack, features, and setup, with additional comments for clarity.
-
----
-
 # 🚀 Metaplex Next.js Solana Token Creator
 
 A modern web application for **creating and managing Solana tokens** using **Metaplex, Next.js, TailwindCSS, and Zustand**.
-
-🌎 **Portfolio Page:** https://crypto.byteory.com
-🔗 **Live Demo:** https://solana-token-creator.byteory.com
 
 ---
 
@@ -39,7 +32,9 @@ A modern web application for **creating and managing Solana tokens** using **Met
 
 ### 1️⃣ Clone the Repository
 
-```Open the file in VS Code
+```bash
+git clone <your-repository-url>
+cd SolanaTokenCreatorr
 ```
 
 ### 2️⃣ Install Dependencies
@@ -209,12 +204,20 @@ npm run build
 npm start
 ```
 
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
-### 🌟 **Built with ❤️ by [Byteory](https://crypto.byteory.com/)**
+## 🤝 Contributing
 
-🔗 **Portfolio:** [crypto.byteory.com](https://crypto.byteory.com)  
-🚀 **Live Project:** [solana-token-creator.byteory.com](https://solana-token-creator.byteory.com)  
+Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
+
+## 📞 Support
+
+If you have any questions or need help, please open an issue on GitHub.
