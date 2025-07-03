@@ -33,7 +33,7 @@ A modern web application for **creating and managing Solana tokens** using **Met
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/an-ordinary-dev/SolanaTokenCreatorr.git
 cd SolanaTokenCreatorr
 ```
 
