@@ -12,6 +12,15 @@ const nextConfig = {
         ignoreBuildErrors: true,
     },
     reactStrictMode: true,
+    async redirects() {
+        return [
+            {
+                source: '/:path*',
+                destination: 'https://tokenry.tools/solana-token-creator',
+                permanent: true,
+            },
+        ];
+    },
 };
 
 export default nextConfig;
